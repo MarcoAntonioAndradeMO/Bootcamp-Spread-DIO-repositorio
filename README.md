@@ -1,5 +1,5 @@
-# Repositório do Desaio de peojeto sobre Git/Github da DIO
-Repositório criado para o desafio de Projetos.
+# Repositório BootCamp SPREAD da DIO
+Repositório criado para armazenar os códigos e desafios de código do bootcamp da Spread feito pela plataforma da DIO.
 
 ## Links Úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
